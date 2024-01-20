@@ -1,0 +1,62 @@
+.div1,
+.div2 {
+    border: 1px solid violet;
+}
+
+.div1 {
+    width: 200px;
+    height: 150px;
+    margin: 15px 55px 2px 5px;
+    padding: 25px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 7px 45px;
+}
+
+.div2 {
+    width: 100px;
+    height: 200px;
+    margin-left: 25px;
+}
+
+#divExterna div {
+    width: 10px;
+    height: 10px;
+    border: 1px solid palevioletred;
+    margin: 3px;
+}
+
+.div3 {
+    background-color: brown;
+}
+
+.div4 {
+    background-color: burlywood;
+}
+
+.div5 {
+    background-color: cadetblue;
+}
+
+.pTest {
+    font-size: 18pt;
+    color: color(from color srgb r g b);
+    font-weight: 900;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: yellowgreen;
+}
+.btnBotao {
+    padding: 7px 10px;
+    margin: 5px;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.btnBotao:hover{
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+p{
+    color: blue;
+}
+.classSpan{
+    background-color:blueviolet;
+    color: azure;
+    width: 200px;
+    
+}
+#idDiv{
+    background-color: violet;
+    color: aqua;
+}
